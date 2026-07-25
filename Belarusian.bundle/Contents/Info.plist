@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.karpesh.keyboardlayout.be</string>
+	<key>CFBundleName</key>
+	<string>Belarusian</string>
+	<key>CFBundleVersion</key>
+	<string>1.8</string>
+	<key>KLInfo_Belarusian Cyrillic</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>com.karpesh.keyboardlayout.be.cyrillic</string>
+		<key>TISIntendedLanguage</key>
+		<string>be</string>
+	</dict>
+	<key>KLInfo_Belarusian Latin</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>com.karpesh.keyboardlayout.be.latin</string>
+		<key>TISIntendedLanguage</key>
+		<string>be-Latn</string>
+	</dict>
+</dict>
+</plist>
