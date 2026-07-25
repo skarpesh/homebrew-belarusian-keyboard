@@ -30,3 +30,14 @@ Then:
 1. Log out and back in.
 2. System Settings → Keyboard → Input Sources → Edit → `+` → search for
    "Belarusian" and add **Belarusian Cyrillic** and/or **Belarusian Latin**.
+
+## Release
+
+```sh
+make release V=1.9.0            # zip the bundle, bump version/sha256 in the cask
+git commit -am 'v1.9.0' && git push
+make publish V=1.9.0            # create the GitHub release, tagging the pushed commit
+```
+
+`publish` refuses to run on a dirty tree or with unpushed commits, and tags the
+exact commit at `HEAD` — so the tag always points at the cask bump.
