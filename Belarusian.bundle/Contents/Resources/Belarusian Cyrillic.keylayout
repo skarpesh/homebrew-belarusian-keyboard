@@ -2,33 +2,139 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <keyboard group="126" id="-19148" name="Belarusian Cyrillic" maxout="1">
     <layouts>
-        <layout first="0" last="0" mapSet="2c54" modifiers="308"/>
-        <layout first="1" last="3" mapSet="410" modifiers="308"/>
         <layout first="4" last="5" mapSet="2c54" modifiers="308"/>
-        <layout first="6" last="6" mapSet="410" modifiers="308"/>
         <layout first="7" last="7" mapSet="2c54" modifiers="308"/>
-        <layout first="8" last="8" mapSet="410" modifiers="308"/>
         <layout first="9" last="9" mapSet="2c54" modifiers="308"/>
-        <layout first="10" last="12" mapSet="410" modifiers="308"/>
         <layout first="13" last="13" mapSet="2c54" modifiers="308"/>
-        <layout first="14" last="16" mapSet="410" modifiers="308"/>
         <layout first="17" last="17" mapSet="2c54" modifiers="308"/>
-        <layout first="19" last="19" mapSet="410" modifiers="308"/>
         <layout first="20" last="20" mapSet="2c54" modifiers="308"/>
-        <layout first="24" last="24" mapSet="410" modifiers="308"/>
         <layout first="25" last="25" mapSet="2c54" modifiers="308"/>
-        <layout first="27" last="28" mapSet="410" modifiers="308"/>
         <layout first="29" last="29" mapSet="2c54" modifiers="308"/>
-        <layout first="192" last="192" mapSet="410" modifiers="308"/>
-        <layout first="193" last="193" mapSet="2c54" modifiers="308"/>
-        <layout first="195" last="195" mapSet="410" modifiers="308"/>
+        <layout first="32" last="32" mapSet="2c54" modifiers="308"/>
+        <layout first="35" last="35" mapSet="2c54" modifiers="308"/>
+        <layout first="38" last="38" mapSet="2c54" modifiers="308"/>
+        <layout first="41" last="41" mapSet="2c54" modifiers="308"/>
+        <layout first="44" last="44" mapSet="2c54" modifiers="308"/>
+        <layout first="47" last="47" mapSet="2c54" modifiers="308"/>
+        <layout first="50" last="50" mapSet="2c54" modifiers="308"/>
+        <layout first="53" last="53" mapSet="2c54" modifiers="308"/>
+        <layout first="56" last="56" mapSet="2c54" modifiers="308"/>
+        <layout first="59" last="59" mapSet="2c54" modifiers="308"/>
+        <layout first="62" last="62" mapSet="2c54" modifiers="308"/>
+        <layout first="65" last="65" mapSet="2c54" modifiers="308"/>
+        <layout first="68" last="68" mapSet="2c54" modifiers="308"/>
+        <layout first="71" last="71" mapSet="2c54" modifiers="308"/>
+        <layout first="74" last="74" mapSet="2c54" modifiers="308"/>
+        <layout first="77" last="77" mapSet="2c54" modifiers="308"/>
+        <layout first="80" last="80" mapSet="2c54" modifiers="308"/>
+        <layout first="83" last="83" mapSet="2c54" modifiers="308"/>
+        <layout first="86" last="86" mapSet="2c54" modifiers="308"/>
+        <layout first="89" last="89" mapSet="2c54" modifiers="308"/>
+        <layout first="92" last="92" mapSet="2c54" modifiers="308"/>
+        <layout first="95" last="95" mapSet="2c54" modifiers="308"/>
+        <layout first="98" last="98" mapSet="2c54" modifiers="308"/>
+        <layout first="101" last="101" mapSet="2c54" modifiers="308"/>
+        <layout first="104" last="104" mapSet="2c54" modifiers="308"/>
+        <layout first="107" last="107" mapSet="2c54" modifiers="308"/>
+        <layout first="110" last="110" mapSet="2c54" modifiers="308"/>
+        <layout first="113" last="113" mapSet="2c54" modifiers="308"/>
+        <layout first="116" last="116" mapSet="2c54" modifiers="308"/>
+        <layout first="119" last="119" mapSet="2c54" modifiers="308"/>
+        <layout first="122" last="122" mapSet="2c54" modifiers="308"/>
+        <layout first="125" last="125" mapSet="2c54" modifiers="308"/>
+        <layout first="128" last="128" mapSet="2c54" modifiers="308"/>
+        <layout first="131" last="131" mapSet="2c54" modifiers="308"/>
+        <layout first="134" last="134" mapSet="2c54" modifiers="308"/>
+        <layout first="137" last="137" mapSet="2c54" modifiers="308"/>
+        <layout first="140" last="140" mapSet="2c54" modifiers="308"/>
+        <layout first="143" last="143" mapSet="2c54" modifiers="308"/>
+        <layout first="146" last="146" mapSet="2c54" modifiers="308"/>
+        <layout first="149" last="149" mapSet="2c54" modifiers="308"/>
+        <layout first="152" last="152" mapSet="2c54" modifiers="308"/>
+        <layout first="155" last="155" mapSet="2c54" modifiers="308"/>
+        <layout first="158" last="158" mapSet="2c54" modifiers="308"/>
+        <layout first="161" last="161" mapSet="2c54" modifiers="308"/>
+        <layout first="164" last="164" mapSet="2c54" modifiers="308"/>
+        <layout first="167" last="167" mapSet="2c54" modifiers="308"/>
+        <layout first="170" last="170" mapSet="2c54" modifiers="308"/>
+        <layout first="173" last="173" mapSet="2c54" modifiers="308"/>
+        <layout first="176" last="176" mapSet="2c54" modifiers="308"/>
+        <layout first="179" last="179" mapSet="2c54" modifiers="308"/>
+        <layout first="182" last="182" mapSet="2c54" modifiers="308"/>
+        <layout first="185" last="185" mapSet="2c54" modifiers="308"/>
+        <layout first="188" last="188" mapSet="2c54" modifiers="308"/>
+        <layout first="191" last="191" mapSet="2c54" modifiers="308"/>
         <layout first="196" last="196" mapSet="2c54" modifiers="308"/>
-        <layout first="198" last="198" mapSet="410" modifiers="308"/>
         <layout first="199" last="199" mapSet="2c54" modifiers="308"/>
-        <layout first="202" last="202" mapSet="410" modifiers="308"/>
         <layout first="203" last="203" mapSet="2c54" modifiers="308"/>
-        <layout first="204" last="204" mapSet="410" modifiers="308"/>
         <layout first="205" last="205" mapSet="2c54" modifiers="308"/>
+        <layout first="0" last="3" mapSet="410" modifiers="308"/>
+        <layout first="6" last="6" mapSet="410" modifiers="308"/>
+        <layout first="8" last="8" mapSet="410" modifiers="308"/>
+        <layout first="10" last="12" mapSet="410" modifiers="308"/>
+        <layout first="14" last="16" mapSet="410" modifiers="308"/>
+        <layout first="18" last="19" mapSet="410" modifiers="308"/>
+        <layout first="21" last="24" mapSet="410" modifiers="308"/>
+        <layout first="26" last="28" mapSet="410" modifiers="308"/>
+        <layout first="30" last="31" mapSet="410" modifiers="308"/>
+        <layout first="33" last="34" mapSet="410" modifiers="308"/>
+        <layout first="36" last="37" mapSet="410" modifiers="308"/>
+        <layout first="39" last="40" mapSet="410" modifiers="308"/>
+        <layout first="42" last="43" mapSet="410" modifiers="308"/>
+        <layout first="45" last="46" mapSet="410" modifiers="308"/>
+        <layout first="48" last="49" mapSet="410" modifiers="308"/>
+        <layout first="51" last="52" mapSet="410" modifiers="308"/>
+        <layout first="54" last="55" mapSet="410" modifiers="308"/>
+        <layout first="57" last="58" mapSet="410" modifiers="308"/>
+        <layout first="60" last="61" mapSet="410" modifiers="308"/>
+        <layout first="63" last="64" mapSet="410" modifiers="308"/>
+        <layout first="66" last="67" mapSet="410" modifiers="308"/>
+        <layout first="69" last="70" mapSet="410" modifiers="308"/>
+        <layout first="72" last="73" mapSet="410" modifiers="308"/>
+        <layout first="75" last="76" mapSet="410" modifiers="308"/>
+        <layout first="78" last="79" mapSet="410" modifiers="308"/>
+        <layout first="81" last="82" mapSet="410" modifiers="308"/>
+        <layout first="84" last="85" mapSet="410" modifiers="308"/>
+        <layout first="87" last="88" mapSet="410" modifiers="308"/>
+        <layout first="90" last="91" mapSet="410" modifiers="308"/>
+        <layout first="93" last="94" mapSet="410" modifiers="308"/>
+        <layout first="96" last="97" mapSet="410" modifiers="308"/>
+        <layout first="99" last="100" mapSet="410" modifiers="308"/>
+        <layout first="102" last="103" mapSet="410" modifiers="308"/>
+        <layout first="105" last="106" mapSet="410" modifiers="308"/>
+        <layout first="108" last="109" mapSet="410" modifiers="308"/>
+        <layout first="111" last="112" mapSet="410" modifiers="308"/>
+        <layout first="114" last="115" mapSet="410" modifiers="308"/>
+        <layout first="117" last="118" mapSet="410" modifiers="308"/>
+        <layout first="120" last="121" mapSet="410" modifiers="308"/>
+        <layout first="123" last="124" mapSet="410" modifiers="308"/>
+        <layout first="126" last="127" mapSet="410" modifiers="308"/>
+        <layout first="129" last="130" mapSet="410" modifiers="308"/>
+        <layout first="132" last="133" mapSet="410" modifiers="308"/>
+        <layout first="135" last="136" mapSet="410" modifiers="308"/>
+        <layout first="138" last="139" mapSet="410" modifiers="308"/>
+        <layout first="141" last="142" mapSet="410" modifiers="308"/>
+        <layout first="144" last="145" mapSet="410" modifiers="308"/>
+        <layout first="147" last="148" mapSet="410" modifiers="308"/>
+        <layout first="150" last="151" mapSet="410" modifiers="308"/>
+        <layout first="153" last="154" mapSet="410" modifiers="308"/>
+        <layout first="156" last="157" mapSet="410" modifiers="308"/>
+        <layout first="159" last="160" mapSet="410" modifiers="308"/>
+        <layout first="162" last="163" mapSet="410" modifiers="308"/>
+        <layout first="165" last="166" mapSet="410" modifiers="308"/>
+        <layout first="168" last="169" mapSet="410" modifiers="308"/>
+        <layout first="171" last="172" mapSet="410" modifiers="308"/>
+        <layout first="174" last="175" mapSet="410" modifiers="308"/>
+        <layout first="177" last="178" mapSet="410" modifiers="308"/>
+        <layout first="180" last="181" mapSet="410" modifiers="308"/>
+        <layout first="183" last="184" mapSet="410" modifiers="308"/>
+        <layout first="186" last="187" mapSet="410" modifiers="308"/>
+        <layout first="189" last="190" mapSet="410" modifiers="308"/>
+        <layout first="192" last="195" mapSet="410" modifiers="308"/>
+        <layout first="197" last="198" mapSet="410" modifiers="308"/>
+        <layout first="200" last="202" mapSet="410" modifiers="308"/>
+        <layout first="204" last="204" mapSet="410" modifiers="308"/>
+        <layout first="206" last="255" mapSet="410" modifiers="308"/>
     </layouts>
     <modifierMap id="308" defaultIndex="5">
         <keyMapSelect mapIndex="0">
@@ -240,7 +346,7 @@
             <key code="47" output="Ю"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="["/>
+            <key code="50" output="~"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -267,7 +373,7 @@
             <key code="91" output="8"/>
             <key code="92" output="9"/>
             <key code="93" output="Ё"/>
-            <key code="94" output="["/>
+            <key code="94" output="~"/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
             <key code="98" output="&#x0010;"/>
@@ -415,9 +521,9 @@
             <key code="0" output="ф"/>
             <key code="1" output="ы"/>
             <key code="2" output="в"/>
-            <key code="3" output="÷"/>
-            <key code="4" output="•"/>
-            <key code="5" output="…"/>
+            <key code="3" output="а"/>
+            <key code="4" output="р"/>
+            <key code="5" output="п"/>
             <key code="6" output="я"/>
             <key code="7" output="ч"/>
             <key code="8" output="с"/>
@@ -430,39 +536,39 @@
             <key code="15" output="к"/>
             <key code="16" output="н"/>
             <key code="17" output="ё"/>
-            <key code="18" output="!"/>
+            <key code="18" output="1"/>
             <key code="19" output="@"/>
             <key code="20" output="#"/>
             <key code="21" output="$"/>
             <key code="22" output="^"/>
-            <key code="23" output="©"/>
+            <key code="23" output="5"/>
             <key code="24" output="≠"/>
-            <key code="25" output="("/>
+            <key code="25" output="["/>
             <key code="26" output="&#x0026;"/>
             <key code="27" output="–"/>
-            <key code="28" output="8"/>
-            <key code="29" output=")"/>
-            <key code="30" output="«"/>
-            <key code="31" output="&#x0027;"/>
+            <key code="28" output="°"/>
+            <key code="29" output="]"/>
+            <key code="30" output="„"/>
+            <key code="31" output="ў"/>
             <key code="32" output="ґ"/>
-            <key code="33" output="“"/>
+            <key code="33" output="«"/>
             <key code="34" output="щ"/>
             <key code="35" output="‘"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="д"/>
-            <key code="38" output="∆"/>
+            <key code="38" output="о"/>
             <key code="39" output="є"/>
             <key code="40" output="л"/>
-            <key code="41" output="«"/>
-            <key code="42" output="\"/>
-            <key code="43" output="≤"/>
-            <key code="44" output="ї"/>
+            <key code="41" output="…"/>
+            <key code="42" output="|"/>
+            <key code="43" output="&#x003C;"/>
+            <key code="44" output="."/>
             <key code="45" output="т"/>
             <key code="46" output="ъ"/>
-            <key code="47" output="≥"/>
+            <key code="47" output="&#x003E;"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="`"/>
+            <key code="50" output="["/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -489,7 +595,7 @@
             <key code="91" output="8"/>
             <key code="92" output="9"/>
             <key code="93" output="§"/>
-            <key code="94" output="`"/>
+            <key code="94" output="]"/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
             <key code="98" output="&#x0010;"/>
@@ -526,9 +632,9 @@
             <key code="0" output="Ф"/>
             <key code="1" output="Ы"/>
             <key code="2" output="В"/>
-            <key code="3" output="±"/>
-            <key code="4" output="∞"/>
-            <key code="5" output="√"/>
+            <key code="3" output="А"/>
+            <key code="4" output="Р"/>
+            <key code="5" output="П"/>
             <key code="6" output="Я"/>
             <key code="7" output="Ч"/>
             <key code="8" output="С"/>
@@ -541,39 +647,39 @@
             <key code="15" output="К"/>
             <key code="16" output="Н"/>
             <key code="17" output="Ё"/>
-            <key code="18" output="™"/>
+            <key code="18" output="!"/>
             <key code="19" output="§"/>
-            <key code="20" output="£"/>
+            <key code="20" output="№"/>
             <key code="21" output="€"/>
-            <key code="22" output="¬"/>
-            <key code="23" output="®"/>
+            <key code="22" output=":"/>
+            <key code="23" output="%"/>
             <key code="24" output="≈"/>
             <key code="25" output="{"/>
-            <key code="26" output="¶"/>
+            <key code="26" output="?"/>
             <key code="27" output="—"/>
             <key code="28" output="°"/>
             <key code="29" output="}"/>
-            <key code="30" output="»"/>
-            <key code="31" output="„"/>
+            <key code="30" output="“"/>
+            <key code="31" output="Ў"/>
             <key code="32" output="Ґ"/>
-            <key code="33" output="”"/>
+            <key code="33" output="»"/>
             <key code="34" output="Щ"/>
             <key code="35" output="’"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="Д"/>
-            <key code="38" output="µ"/>
+            <key code="38" output="О"/>
             <key code="39" output="Є"/>
             <key code="40" output="Л"/>
-            <key code="41" output="»"/>
+            <key code="41" output="…"/>
             <key code="42" output="|"/>
-            <key code="43" output="&#x003C;"/>
-            <key code="44" output="Ї"/>
+            <key code="43" output="≤"/>
+            <key code="44" output=","/>
             <key code="45" output="Т"/>
             <key code="46" output="Ъ"/>
-            <key code="47" output="&#x003E;"/>
+            <key code="47" output="≥"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="~"/>
+            <key code="50" output="]"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -600,7 +706,7 @@
             <key code="91" output="8"/>
             <key code="92" output="9"/>
             <key code="93" output="±"/>
-            <key code="94" output="~"/>
+            <key code="94" output="["/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
             <key code="98" output="&#x0010;"/>
@@ -684,7 +790,7 @@
             <key code="47" output="ю"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="]"/>
+            <key code="50" output="`"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -711,7 +817,7 @@
             <key code="91" output="8"/>
             <key code="92" output="9"/>
             <key code="93" output="ё"/>
-            <key code="94" output="]"/>
+            <key code="94" output="`"/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
             <key code="98" output="&#x0010;"/>
@@ -795,7 +901,7 @@
             <key code="47" output="Ю"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="["/>
+            <key code="50" output="~"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -822,7 +928,7 @@
             <key code="91" output="8"/>
             <key code="92" output="9"/>
             <key code="93" output="Ё"/>
-            <key code="94" output="["/>
+            <key code="94" output="~"/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
             <key code="98" output="&#x0010;"/>
@@ -1017,7 +1123,7 @@
             <key code="47" output="Ю"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="]"/>
+            <key code="50" output="`"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -1044,7 +1150,7 @@
             <key code="91" output="8"/>
             <key code="92" output="9"/>
             <key code="93" output="Ё"/>
-            <key code="94" output="]"/>
+            <key code="94" output="`"/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
             <key code="98" output="&#x0010;"/>
@@ -1081,9 +1187,9 @@
             <key code="0" output="Ф"/>
             <key code="1" output="Ы"/>
             <key code="2" output="В"/>
-            <key code="3" output="±"/>
-            <key code="4" output="∞"/>
-            <key code="5" output="√"/>
+            <key code="3" output="А"/>
+            <key code="4" output="Р"/>
+            <key code="5" output="П"/>
             <key code="6" output="Я"/>
             <key code="7" output="Ч"/>
             <key code="8" output="С"/>
@@ -1096,39 +1202,39 @@
             <key code="15" output="К"/>
             <key code="16" output="Н"/>
             <key code="17" output="Ё"/>
-            <key code="18" output="!"/>
+            <key code="18" output="1"/>
             <key code="19" output="@"/>
             <key code="20" output="#"/>
             <key code="21" output="$"/>
             <key code="22" output="^"/>
-            <key code="23" output="©"/>
+            <key code="23" output="5"/>
             <key code="24" output="≠"/>
-            <key code="25" output="("/>
+            <key code="25" output="["/>
             <key code="26" output="&#x0026;"/>
             <key code="27" output="–"/>
-            <key code="28" output="8"/>
-            <key code="29" output=")"/>
-            <key code="30" output="«"/>
-            <key code="31" output="&#x0027;"/>
+            <key code="28" output="°"/>
+            <key code="29" output="]"/>
+            <key code="30" output="„"/>
+            <key code="31" output="Ў"/>
             <key code="32" output="Ґ"/>
-            <key code="33" output="”"/>
+            <key code="33" output="«"/>
             <key code="34" output="Щ"/>
             <key code="35" output="’"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="Д"/>
-            <key code="38" output="µ"/>
+            <key code="38" output="О"/>
             <key code="39" output="Є"/>
             <key code="40" output="Л"/>
-            <key code="41" output="«"/>
+            <key code="41" output="…"/>
             <key code="42" output="|"/>
             <key code="43" output="&#x003C;"/>
-            <key code="44" output="Ї"/>
+            <key code="44" output="."/>
             <key code="45" output="Т"/>
             <key code="46" output="Ъ"/>
             <key code="47" output="&#x003E;"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="~"/>
+            <key code="50" output="["/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -1155,7 +1261,7 @@
             <key code="91" output="8"/>
             <key code="92" output="9"/>
             <key code="93" output="§"/>
-            <key code="94" output="~"/>
+            <key code="94" output="]"/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
             <key code="98" output="&#x0010;"/>
@@ -1194,38 +1300,31 @@
             <key code="512" output=""/>
         </keyMap>
         <keyMap index="1" baseMapSet="2c54" baseIndex="1">
-            <key code="50" output="Ë"/>
-            <key code="94" output="Ë"/>
+            <key code="50" output="Ё"/>
         </keyMap>
         <keyMap index="2" baseMapSet="2c54" baseIndex="2">
             <key code="512" output=""/>
         </keyMap>
         <keyMap index="3" baseMapSet="2c54" baseIndex="3">
-            <key code="50" output="["/>
-            <key code="94" output="["/>
+            <key code="50" output="`"/>
         </keyMap>
         <keyMap index="4" baseMapSet="2c54" baseIndex="4">
-            <key code="50" output="]"/>
-            <key code="94" output="]"/>
+            <key code="50" output="~"/>
         </keyMap>
         <keyMap index="5" baseMapSet="2c54" baseIndex="5">
             <key code="50" output="ё"/>
-            <key code="94" output="ё"/>
         </keyMap>
         <keyMap index="6" baseMapSet="2c54" baseIndex="6">
-            <key code="50" output="Ë"/>
-            <key code="94" output="Ë"/>
+            <key code="50" output="Ё"/>
         </keyMap>
         <keyMap index="7" baseMapSet="2c54" baseIndex="7">
             <key code="512" output=""/>
         </keyMap>
         <keyMap index="8" baseMapSet="2c54" baseIndex="8">
-            <key code="50" output="Ë"/>
-            <key code="94" output="Ë"/>
+            <key code="50" output="Ё"/>
         </keyMap>
         <keyMap index="9" baseMapSet="2c54" baseIndex="9">
-            <key code="50" output="["/>
-            <key code="94" output="["/>
+            <key code="50" output="`"/>
         </keyMap>
     </keyMapSet>
 </keyboard>
