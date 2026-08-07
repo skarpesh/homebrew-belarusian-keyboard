@@ -1,0 +1,59 @@
+<!-- Local copy of /System/Library/DTDs/KeyboardLayout.dtd patched for xmllint:
+     Ukelele writes ids that may start with a digit ("2c54"), which Apple's
+     parser accepts but strict XML rejects as ID/IDREF — those are NMTOKEN here.
+     The system DTD also predates keyMap's baseMapSet/baseIndex; added below. -->
+
+<!-- Overall structure -->
+<!ELEMENT keyboard (layouts+, modifierMap+, keyMapSet+, actions*, terminators*)>
+<!ATTLIST keyboard group NMTOKEN #REQUIRED >
+<!ATTLIST keyboard id NMTOKEN #REQUIRED >
+<!ATTLIST keyboard name CDATA #REQUIRED >
+<!ATTLIST keyboard maxout NMTOKEN #IMPLIED >
+
+<!-- Hardware layout elements -->
+<!ELEMENT layouts (layout+) >
+<!ELEMENT layout EMPTY >
+<!ATTLIST layout first NMTOKEN #REQUIRED >
+<!ATTLIST layout last NMTOKEN #REQUIRED >
+<!ATTLIST layout modifiers NMTOKEN #REQUIRED >
+<!ATTLIST layout mapSet NMTOKEN #REQUIRED >
+
+<!-- Modifier descriptions -->
+<!ELEMENT modifierMap (keyMapSelect+) >
+<!ATTLIST modifierMap id NMTOKEN #REQUIRED >
+<!ATTLIST modifierMap defaultIndex NMTOKEN #REQUIRED >
+
+<!ELEMENT keyMapSelect (modifier+) >
+<!ATTLIST keyMapSelect mapIndex NMTOKEN #REQUIRED >
+
+<!ELEMENT modifier EMPTY >
+<!ATTLIST modifier keys CDATA #REQUIRED >
+
+<!-- Keyboard mapping -->
+<!ELEMENT keyMapSet (keyMap+) >
+<!ATTLIST keyMapSet id NMTOKEN #REQUIRED >
+
+<!ELEMENT keyMap (key+) >
+<!ATTLIST keyMap index NMTOKEN #REQUIRED >
+<!ATTLIST keyMap baseMapSet NMTOKEN #IMPLIED >
+<!ATTLIST keyMap baseIndex NMTOKEN #IMPLIED >
+
+<!ELEMENT key (action*) >
+<!ATTLIST key code NMTOKEN #REQUIRED >
+<!ATTLIST key output CDATA #IMPLIED >
+<!ATTLIST key action IDREF #IMPLIED >
+
+<!-- Actions (state records) -->
+<!ELEMENT actions (action+) >
+<!ELEMENT action (when+) >
+<!ATTLIST action id ID #IMPLIED >
+
+<!ELEMENT when EMPTY >
+<!ATTLIST when state NMTOKEN #REQUIRED >
+<!ATTLIST when through NMTOKEN #IMPLIED >
+<!ATTLIST when output CDATA #IMPLIED >
+<!ATTLIST when multiplier NMTOKEN #IMPLIED >
+<!ATTLIST when next NMTOKEN #IMPLIED >
+
+<!-- Terminators -->
+<!ELEMENT terminators (when+) >
