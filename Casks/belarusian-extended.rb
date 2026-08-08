@@ -1,6 +1,6 @@
 cask "belarusian-extended" do
-  version "1.10.1"
-  sha256 "cb1b137210ba711d3836ed3d8aa6953e5d71a5405ea78346790738d097c3028b"
+  version "1.11.0"
+  sha256 "d984be1542a70b07f97445500223b4df9baede9648d6b93fcd1dd385ce0ad8ff"
 
   url "https://github.com/skarpesh/homebrew-belarusian-keyboard/releases/download/v#{version}/Belarusian.bundle.zip"
   name "Belarusian Extended Keyboard Layouts"
