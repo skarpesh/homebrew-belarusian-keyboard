@@ -47,17 +47,17 @@ ISO:
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐
-│ё  │1 !│2 "│3 №│4 ;│5 %│6 :│7 ?│8 *│9 (│0 )│- _│= +│     ⌫ │
-│§ ±│   │@ §│#  │$ €│   │^  │&  │°  │[ {│] }│– —│≠ ≈│       │
+│§ ±│1 !│2 "│3 №│4 ;│5 %│6 :│7 ?│8 *│9 (│0 )│- _│= +│     ⌫ │
+│   │   │@ §│#  │$ €│   │^  │&  │°  │[ {│] }│– —│≠ ≈│       │
 ├───┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─────┤
 │ ⇥   │й  │ц  │у  │к  │е  │н  │г  │ш  │ў  │з  │х  │' ’│   ↩ │
 │     │ї  │   │ў  │   │ё  │   │ґ  │щ  │   │‘ ’│« „│» “│     │
 ├─────┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┐    │
-│ ⇪    │ф  │ы  │в  │а  │п  │р  │о  │л  │д  │ж  │э  │\ /│    │
+│ ⇪    │ф  │ы  │в  │а  │п  │р  │о  │л  │д  │ж  │э  │ё  │    │
 │      │   │   │   │   │   │   │   │   │   │…  │є  │|  │    │
 ├────┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴───┴────┤
 │ ⇧  │` ~│я  │ч  │с  │м  │і  │т  │ь  │б  │ю  │. ,│        ⇧ │
-│    │[ ]│   │   │   │   │и  │   │ъ  │< ≤│> ≥│   │          │
+│    │◌́  │   │   │   │   │и  │   │ъ  │< ≤│> ≥│/ \│          │
 ├───┬┴──┬┴──┬┴───┴┬──┴───┴───┴───┴───┴┬──┴──┬┴──┬┴──┬───┬───┤
 │ fn│ ⌃ │ ⌥ │ ⌘   │                   │   ⌘ │ ⌥ │   │ ↑ │   │
 │   │   │   │     │                   │     │   │ ← │ ↓ │ → │
@@ -68,27 +68,31 @@ ANSI:
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐
-│ё  │1 !│2 "│3 №│4 ;│5 %│6 :│7 ?│8 *│9 (│0 )│- _│= +│     ⌫ │
-│` ~│   │@ §│#  │$ €│   │^  │&  │°  │[ {│] }│– —│≠ ≈│       │
+│` ~│1 !│2 "│3 №│4 ;│5 %│6 :│7 ?│8 *│9 (│0 )│- _│= +│     ⌫ │
+│◌́  │   │@ §│#  │$ €│   │^  │&  │°  │[ {│] }│– —│≠ ≈│       │
 ├───┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─────┤
-│ ⇥   │й  │ц  │у  │к  │е  │н  │г  │ш  │ў  │з  │х  │' ’│ \ / │
+│ ⇥   │й  │ц  │у  │к  │е  │н  │г  │ш  │ў  │з  │х  │' ’│ ё   │
 │     │ї  │   │ў  │   │ё  │   │ґ  │щ  │   │‘ ’│« „│» “│ |   │
 ├─────┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴─────┤
 │ ⇪    │ф  │ы  │в  │а  │п  │р  │о  │л  │д  │ж  │э  │      ↩ │
 │      │   │   │   │   │   │   │   │   │   │…  │є  │        │
 ├──────┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴────────┤
 │ ⇧      │я  │ч  │с  │м  │і  │т  │ь  │б  │ю  │. ,│        ⇧ │
-│        │   │   │   │   │и  │   │ъ  │< ≤│> ≥│   │          │
+│        │   │   │   │   │и  │   │ъ  │< ≤│> ≥│/ \│          │
 ├───┬───┬┴──┬┴───┴┬──┴───┴───┴───┴───┴┬──┴──┬┴──┬┴──┬───┬───┤
 │ fn│ ⌃ │ ⌥ │ ⌘   │                   │   ⌘ │ ⌥ │   │ ↑ │   │
 │   │   │   │     │                   │     │   │ ← │ ↓ │ → │
 └───┴───┴───┴─────┴───────────────────┴─────┴───┴───┴───┴───┘
 ```
 
-`ё` keeps the standard spot left of `1` on both. On ISO the ` and ~ live on
-the extra key by the left ⇧, with `[` `]` on its ⌥ layer; ANSI has no such
-key, so ` and ~ move onto the ⌥ layer of `ё`. Brackets are on ⌥ + `9` / `0`
-either way, braces on ⇧⌥ + `9` / `0`.
+`ё` sits on the key left of ⏎ — the spot Apple's built-in Belarusian
+layout (internally `com.apple.keylayout.Byelorussian`) uses. The corner key therefore works exactly like on the Latin layout:
+`§ ±` on ISO, ` ~ on ANSI. The stress mark ◌́ lives on the ⌥ layer of the
+` key on both shapes (the extra key by the left ⇧ on ISO, the corner on
+ANSI); it is a combining character: type the vowel, then the mark — `о`
+plus ⌥` gives `о́`. Slashes sit on the ⌥ layer of `.`: ⌥ gives `/`, ⇧⌥
+gives `\`. Brackets are on ⌥ + `9` / `0` either way, braces on
+⇧⌥ + `9` / `0`.
 
 ### Belarusian Latin
 
@@ -135,7 +139,8 @@ ANSI:
 ```
 
 The Latin layout needs no such split — every key means the same on both
-shapes, ANSI simply has no `§` key.
+shapes; ANSI merely lacks the physical `§` key in the corner, the character
+itself stays reachable (⌥ + `2` here, ⇧⌥ + `2` on the Cyrillic layout).
 
 ### Notes
 
