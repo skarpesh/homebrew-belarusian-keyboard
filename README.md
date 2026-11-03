@@ -17,7 +17,7 @@ The Latin layout supports both lacinka orthographies for the L sounds: the
 traditional one (hard л → `ł`, ⌥ + `l`) and the modern one (soft ль → `ĺ`,
 ⌥ + `k`).
 
-It also has two dead keys on the Option layer: ⌥ + `'` (acute: ´) and
+It also has two dead keys on the Option layer: ⌥ + `` ` `` (acute: ´) and
 ⌥ + `v` (caron: ˇ).
 
 ## Layouts
@@ -36,10 +36,9 @@ Uppercase letters are left out — ⇧ gives them as usual. An empty slot means
 that combination has nothing of its own: you get what the key already gives
 with fewer modifiers.
 
-Both keyboard shapes are drawn below. macOS tells the layout which one is
-attached and switches between them on its own — it is one input source, not
-two. ISO keyboards have an extra key next to the left ⇧ that ANSI ones lack,
-and one fewer key in the ⇥ row.
+Both keyboard shapes are drawn below — it is one input source for both, the
+keys just sit in different places. ISO keyboards have an extra key next to
+the left ⇧ that ANSI ones lack, and one fewer key in the ⇥ row.
 
 ### Belarusian Cyrillic
 
@@ -152,7 +151,8 @@ doubles it into ” — same single-to-double move as `'` → `"` on that key �
 completing the American “ ” and Polish „ ” pairs.
 
 The ◌́ and ◌̌ slots on the Latin layout are the dead keys: they put the
-accent on the next letter instead of printing anything themselves.
+accent on the next letter instead of printing anything themselves. Followed by
+␣ Space, or pressed twice, they give the bare accent.
 
 ## Install
 
